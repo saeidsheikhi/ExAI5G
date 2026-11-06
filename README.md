@@ -4,8 +4,6 @@ Result files and figures for the article:
 
 > Saeid Sheikhi, Panos Kostakos, Lauri Lovén. **ExAI5G: A Logic-Based Explainable AI Framework for Intrusion Detection in 5G Networks.** *Journal, year and DOI will be added on publication.*
 
-Every number from the paper listed below can be recomputed from the files in [`data/`](data) with one command (see [Check the numbers](#check-the-numbers)).
-
 ## Contents
 
 | In the paper | What it reports | Data | Figure |
@@ -95,7 +93,6 @@ The files directly in `data/` are the original, unedited outputs of the evaluati
 This repository covers the results in Sections 5.1–5.4 and 5.8 of the paper. It does not include:
 
 - the article itself (see the citation above);
-- the raw traffic dataset (see [Dataset](#dataset)) or the trained models;
 - the CatBoost and LightGBM baseline results in Table 4;
 - the LLM-generated explanations and their evaluation (Sections 5.5–5.7). Expert ratings are reported only in aggregate form, as stated in the paper's ethics statement;
 - the ablation runs (Tables 9–11), apart from the depth-4 surrogate tree reported in `summary.json`.

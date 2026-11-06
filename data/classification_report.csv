@@ -1,0 +1,13 @@
+,precision,recall,f1-score,support
+Brute Force,0.619,0.812,0.703,32.0
+DDoS,1.0,1.0,1.0,18341.0
+Device Spoofing,0.714,0.625,0.667,8.0
+DoS_MQTT,1.0,1.0,1.0,27835.0
+Eavesdropping,0.642,0.944,0.764,392.0
+MITM,0.986,0.933,0.959,75.0
+SQL Injection,0.978,0.83,0.898,53.0
+Unauthorized Data Access,0.696,0.696,0.696,23.0
+benign,1.0,0.999,0.999,148070.0
+accuracy,0.999,0.999,0.999,0.999
+macro avg,0.848,0.871,0.854,194829.0
+weighted avg,0.999,0.999,0.999,194829.0

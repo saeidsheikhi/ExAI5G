@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite the article below."
+title: "ExAI5G: result data and figures"
+type: dataset
+license: CC-BY-4.0
+url: "https://github.com/saeidsheikhi/ExAI5G"
+repository-code: "https://github.com/saeidsheikhi/ExAI5G"
+authors:
+  - family-names: Sheikhi
+    given-names: Saeid
+    affiliation: University of Oulu
+  - family-names: Kostakos
+    given-names: Panos
+    affiliation: University of Oulu
+  - family-names: Lovén
+    given-names: Lauri
+    affiliation: University of Oulu
+keywords:
+  - explainable AI
+  - intrusion detection
+  - 5G
+  - rule extraction
+  - large language models
+preferred-citation:
+  type: article
+  title: "ExAI5G: A Logic-Based Explainable AI Framework for Intrusion Detection in 5G Networks"
+  authors:
+    - family-names: Sheikhi
+      given-names: Saeid
+      affiliation: University of Oulu
+    - family-names: Kostakos
+      given-names: Panos
+      affiliation: University of Oulu
+    - family-names: Lovén
+      given-names: Lauri
+      affiliation: University of Oulu
+  year: 2026
+  # Add these lines once the article is published:
+  # journal: "Journal name"
+  # doi: "10.xxxx/xxxxxxx"

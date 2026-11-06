@@ -117,8 +117,10 @@ If you use these files, please cite the article:
 @article{sheikhi2026exai5g,
   title   = {{ExAI5G}: A Logic-Based Explainable {AI} Framework for Intrusion Detection in {5G} Networks},
   author  = {Sheikhi, Saeid and Kostakos, Panos and Lov{\'e}n, Lauri},
-  journal = {},
+  journal = {Information Sciences},
+  pages   = {124382},
   year    = {2026},
-  doi     = {}
+  doi     = {10.1016/j.ins.2026.124382},
+  url     = {https://doi.org/10.1016/j.ins.2026.124382}
 }
 ```

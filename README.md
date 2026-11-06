@@ -89,11 +89,6 @@ The files directly in `data/` are the original, unedited outputs of the evaluati
 | **Figure 6** | **Figure 7** |
 | <img src="figures/fig6_coverage_vs_rules.png" width="420"> | <img src="figures/fig7_latency_distribution.png" width="420"> |
 
-## Dataset
-
-The network traffic dataset has nine classes (eight attacks and benign) and 28 packet-level features. It was collected on the authors' 5G testbed in a fully controlled environment, without real user traffic or personally identifiable information. It is not redistributed here.
-
-Dataset: **[add dataset link or citation]**
 
 ## Scope
 
